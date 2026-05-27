@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsync",
+        "uuid": 14895914,
+        "checksum": "jbb7os"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
